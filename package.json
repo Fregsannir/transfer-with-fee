@@ -1,0 +1,31 @@
+{
+  "name": "docker-docs",
+  "version": "1.0.0",
+  "description": "Docker documentation with examples",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/PRODCREATORS/docker-docs.git"
+  },
+  "keywords": [
+    "docker",
+    "docs",
+    "example",
+    "continuous-integration",
+    "continuous-deployment",
+    "continuous-delivery"
+  ],
+  "author": "Teimuraz Kozanashvili <kozanashvili.teimuraz@gmail.com>",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/PRODCREATORS/docker-docs/issues"
+  },
+  "homepage": "https://github.com/PRODCREATORS/docker-docs#readme",
+  "dependencies": {
+    "prettier": "^2.6.2",
+    "prettier-plugin-solidity": "^1.0.0-beta.19"
+  }
+}
